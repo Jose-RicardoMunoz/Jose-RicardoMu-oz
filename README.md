@@ -27,5 +27,5 @@
 
 ¿Cómo me pueden contactar?
 📩 Correo: josemunozmansilla@gmail.com
-🔗 LinkedIn: linkedin.com/in/josericardomunoz/
+🔗 LinkedIn: linkedin.com/in/josericardomunoz/ 
 
