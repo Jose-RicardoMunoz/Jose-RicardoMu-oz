@@ -25,6 +25,9 @@
 🌍 Mi impacto trasciende fronteras, colaborando con empresas y startups de:
 🇵🇪 Perú, 🇲🇽 México, 🇧🇷 Brasil, 🇦🇴 Angola, 🇻🇪 Venezuela, 🇦🇷 Argentina, 🇨🇴 Colombia, 🇨🇱 Chile, 🇪🇸 España, entre otros países.
 
+Mis intereses:
+💡 La innovación, los negocios, la ingeneria, el control de gestión, la programación, el mundo startup, la mentoria.💡
+
 ¿Cómo me pueden contactar?
 📩 Correo: josemunozmansilla@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/josericardomunoz/ 
