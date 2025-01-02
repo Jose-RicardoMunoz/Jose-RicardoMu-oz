@@ -26,9 +26,21 @@
 🇵🇪 Perú, 🇲🇽 México, 🇧🇷 Brasil, 🇦🇴 Angola, 🇻🇪 Venezuela, 🇦🇷 Argentina, 🇨🇴 Colombia, 🇨🇱 Chile, 🇪🇸 España, entre otros países.
 
 Mis intereses:
-💡 La innovación, los negocios, la ingeneria, el control de gestión, la programación, el mundo startup, la mentoria.💡
+💡 La innovación, los negocios, la ingeniería, el control de gestión, la programación, el mundo startup, la mentoría.💡
+
+🛠️ Mis Habilidades:
+-	Desarrollo web (HTML, CSS, JavaScript).
+-	Diseño y prototipado digital.
+-	Colaboración en entornos de desarrollo ágil.
+-	Mentorías y coaching.
+-	Innovación.
+-	Modelos de negocios.
+-	Control de gestión.
+
 
 ¿Cómo me pueden contactar?
 📩 Correo: josemunozmansilla@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/josericardomunoz/ 
+🔗 Instagram: https://www.instagram.com/jo.munozma/
+🔗 Facebook: https://www.facebook.com/@ConsultorJosericardoMunoz 
 
